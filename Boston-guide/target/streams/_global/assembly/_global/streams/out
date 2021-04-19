@@ -4,7 +4,6 @@
 [debug] Merging files...
 [debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
 [info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
-[debug] SHA-1: 72b1f5c1d2af5a590da414a2dbea6a8ae4461aee
 [debug] Packaging C:\study\otus\git\Boston-guide\target\scala-2.12\Boston-guide-assembly-0.1.jar ...
 [debug] Input file mappings:
 [debug] 	LICENSE_scala-library-2.12.10

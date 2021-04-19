@@ -1,0 +1,29 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\git\json_reader_nikolaev\target\scala-2.12\classes.bak
+[debug] About to delete class files:
+[debug] 	JsonReader.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$2.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$anon$macro$15$1.class
+[debug] 	JsonReader$VineDetails$2$.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$1.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1.class
+[debug] 	JsonReader$.class
+[debug] 	JsonReader$VineDetails$1.class
+[debug] We backup class files:
+[debug] 	JsonReader.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$2.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$anon$macro$15$1.class
+[debug] 	JsonReader$VineDetails$2$.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$1.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1.class
+[debug] 	JsonReader$.class
+[debug] 	JsonReader$VineDetails$1.class
+[debug] Registering generated classes:
+[debug] 	JsonReader.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$2.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$anon$macro$15$1.class
+[debug] 	JsonReader$VineDetails$2$.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1$$anon$1.class
+[debug] 	JsonReader$anon$importedDecoder$macro$17$1.class
+[debug] 	JsonReader$.class
+[debug] 	JsonReader$VineDetails$1.class
+[debug] Removing the temporary directory used for backing up class files: C:\git\json_reader_nikolaev\target\scala-2.12\classes.bak
