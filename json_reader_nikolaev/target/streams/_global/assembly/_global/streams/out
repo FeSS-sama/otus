@@ -1,21 +1,21 @@
-[debug] Including from cache: jawn-parser_2.12-1.0.0.jar
-[debug] Including from cache: cats-macros_2.12-2.1.0.jar
-[debug] Including from cache: circe-parser_2.12-0.13.0.jar
-[debug] Including from cache: macro-compat_2.12-1.1.1.jar
-[debug] Including from cache: circe-numbers_2.12-0.13.0.jar
 [debug] Including from cache: circe-jawn_2.12-0.13.0.jar
-[debug] Including from cache: circe-generic_2.12-0.13.0.jar
 [debug] Including from cache: circe-core_2.12-0.13.0.jar
 [debug] Including from cache: shapeless_2.12-2.3.3.jar
+[debug] Including from cache: cats-macros_2.12-2.1.0.jar
+[debug] Including from cache: jawn-parser_2.12-1.0.0.jar
 [debug] Including from cache: cats-core_2.12-2.1.0.jar
-[debug] Including from cache: cats-kernel_2.12-2.1.0.jar
+[debug] Including from cache: circe-numbers_2.12-0.13.0.jar
 [debug] Including from cache: scala-library-2.12.10.jar
+[debug] Including from cache: circe-parser_2.12-0.13.0.jar
+[debug] Including from cache: macro-compat_2.12-1.1.1.jar
+[debug] Including from cache: circe-generic_2.12-0.13.0.jar
+[debug] Including from cache: cats-kernel_2.12-2.1.0.jar
 [debug] Calculate mappings...
 [debug] Checking every *.class/*.jar file's SHA-1.
 [debug] Merging files...
 [debug] Merging 'META-INF\MANIFEST.MF' with strategy 'discard'
 [info] Strategy 'discard' was applied to a file (Run the task at debug level to see details)
-[debug] SHA-1: 89e19f0925f1b23bfd4e13b76d0b883a92701132
+[debug] SHA-1: 4f8f37011f9ba047244f2018aad2a17f88738abc
 [debug] Packaging C:\git\json_reader_nikolaev\target\scala-2.12\json_reader_nikolaev-assembly-0.1.jar ...
 [debug] Input file mappings:
 [debug] 	LICENSE_scala-library-2.12.10
@@ -7532,14 +7532,14 @@
 [debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$VineDetails$1.class
 [debug] 	main\JsonReader$VineDetails$2$.class
 [debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$VineDetails$2$.class
-[debug] 	main\JsonReader$anon$importedDecoder$macro$17$1$$anon$1.class
-[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$17$1$$anon$1.class
-[debug] 	main\JsonReader$anon$importedDecoder$macro$17$1$$anon$2.class
-[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$17$1$$anon$2.class
-[debug] 	main\JsonReader$anon$importedDecoder$macro$17$1$anon$macro$15$1.class
-[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$17$1$anon$macro$15$1.class
-[debug] 	main\JsonReader$anon$importedDecoder$macro$17$1.class
-[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$17$1.class
+[debug] 	main\JsonReader$anon$importedDecoder$macro$19$1$$anon$1.class
+[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$19$1$$anon$1.class
+[debug] 	main\JsonReader$anon$importedDecoder$macro$19$1$$anon$2.class
+[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$19$1$$anon$2.class
+[debug] 	main\JsonReader$anon$importedDecoder$macro$19$1$anon$macro$17$1.class
+[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$19$1$anon$macro$17$1.class
+[debug] 	main\JsonReader$anon$importedDecoder$macro$19$1.class
+[debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader$anon$importedDecoder$macro$19$1.class
 [debug] 	main\JsonReader.class
 [debug] 	  C:\git\json_reader_nikolaev\target\streams\_global\assemblyOption\_global\streams\assembly\91d857247f93272ea1517e8ea94176a85d272733_dir\main\JsonReader.class
 [debug] 	org\typelevel\jawn\AsyncException.class
