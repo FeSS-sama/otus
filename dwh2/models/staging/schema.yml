@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: stg_daily_data
+    columns:
+      - name: film_name
+        tests:
+          - not_null
+      - name: date
+        tests:
+          - not_null
+      - name: earnings
+        tests:
+          - not_null
+      - name: theaters
+        tests:
+          - not_null
+      - name: rank
+        tests:
+          - not_null
+
+  - name: stg_movies
+    columns:
+      - name: film_name
+        tests:
+          - unique
+          - not_null
+      - name: domestic
+        tests:
+          - not_null
+      - name: international
+        tests:
+          - not_null
+      - name: budget
+        tests:
+          - not_null
+      - name: distributor
+      - name: mpaa_rating
+      - name: runtime
+        tests:
+          - not_null
+      - name: genres

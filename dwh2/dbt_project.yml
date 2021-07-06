@@ -1,0 +1,35 @@
+
+name: 'daily_earnings'
+version: '0.1'
+profile: 'vertica'
+config-version: 2
+
+source-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+data-paths: ["data"]
+macro-paths: ["macros"]
+
+seeds:
+  +quote_columns: true
+
+target-path: "target"
+clean-targets:
+    - "target"
+    - "dbt_modules"
+    - "logs"
+
+models:
+  daily_earnings:
+      staging:
+        materialized: view
+        schema: stage
+        tags: ["staging", "hourly"]
+      core:
+        materialized: table
+        schema: core
+        tags: [ "core", "daily" ]
+      marts:
+        materialized: view
+        schema: marts
+        tags: [ "marts", "daily" ]
